@@ -45,7 +45,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 		<!-- Library versions-->
-		<disruptor-maven-plugin.version>4.0.0</disruptor-maven-plugin.version>
+		<disruptor-maven-plugin.version>3.4.4</disruptor-maven-plugin.version>
 	</properties>
 
 	<dependencyManagement>
