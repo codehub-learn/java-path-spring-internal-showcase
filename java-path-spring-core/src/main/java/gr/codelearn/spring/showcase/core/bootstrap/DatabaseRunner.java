@@ -5,7 +5,6 @@ import gr.codelearn.spring.showcase.core.component.DataSource;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
-import org.springframework.core.env.Environment;
 import org.springframework.stereotype.Component;
 
 @Component
